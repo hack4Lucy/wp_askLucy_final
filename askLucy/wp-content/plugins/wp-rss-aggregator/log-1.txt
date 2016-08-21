@@ -1,0 +1,8 @@
+[06-08-2016 23:02:32] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[06-08-2016 23:04:42] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.dutchnews.nl/rss-feed/". A feed could not be found at http://www.dutchnews.nl/rss-feed/. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+
+
